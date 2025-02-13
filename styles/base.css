@@ -1,0 +1,15 @@
+.center-col {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 16px;
+}
+
+.red {
+	color: var(--twoslash-error-color);
+}
+
+.green {
+	color: var(--twoslash-tag-annotate-color);
+}
