@@ -1,11 +1,17 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Уменьшаем банды
 
-To start the slide show:
+**Автор:** [Женя Кучерявый](https://t.me/frontend_director)  
+**Мерприятие:** [NNFronten 02/25](https://t.me/NNFrontend)
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+## Полезное
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- larana-js
+- SVGO
+- SVGR
+- vite-bundle-analyzer
+- npm ls
+- https://pagespeed.web.dev/
+- waterline
+- https://fontforge.org
+- https://www.cssfontstack.com/
+- caniuse

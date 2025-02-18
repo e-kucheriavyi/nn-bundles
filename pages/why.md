@@ -31,13 +31,13 @@ layout: default
 
 <v-clicks>
 
-- FCP — First contentful paint
-- LCP — Largest contentful paint
-- TTI — Time to interactive
-- CLS — Cumulative layout shift
-- INP — Interaction to Next Paint
-- TTFB — Time to first byte
-- TBT — Total blocking time
+## - FCP — First contentful paint
+## - LCP — Largest contentful paint
+## - TTI — Time to interactive
+## - CLS — Cumulative layout shift
+## - INP — Interaction to Next Paint
+## - TTFB — Time to first byte
+## - TBT — Total blocking time
 
 </v-clicks>
 

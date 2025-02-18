@@ -2,11 +2,11 @@
 
 <v-clicks>
 
-- `npm ls`
-- `npm ls *`
-- `npm ls * | grep lodash`
-- `npm ls lodash`
-- `npm ls --production`
+## - `npm ls`
+## - `npm ls *`
+## - `npm ls * | grep lodash`
+## - `npm ls lodash`
+## - `npm ls --production`
 
 </v-clicks>
 
